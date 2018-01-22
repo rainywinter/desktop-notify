@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "xTlaprATRj0+UO/aouvFSmm1ZPY=",
+			"path": "github.com/gen2brain/beeep",
+			"revision": "f56a8dcff5615e3348d33c72819d7bd0a829ce56",
+			"revisionTime": "2018-01-14T12:29:04Z"
+		},
+		{
+			"checksumSHA1": "Qbh78KcLmLVoURsCp+f5xVeA/fI=",
+			"path": "github.com/godbus/dbus",
+			"revision": "a389bdde4dd695d414e47b755e95e72b7826432c",
+			"revisionTime": "2017-09-18T23:46:06Z"
+		},
+		{
+			"checksumSHA1": "HmbftipkadrLlCfzzVQ+iFHbl6g=",
+			"path": "github.com/golang/glog",
+			"revision": "23def4e6c14b4da8ac2ed8007337bc5eb5007998",
+			"revisionTime": "2016-01-25T20:49:56Z"
+		},
+		{
+			"checksumSHA1": "yIkYzW7bzAD81zHyuCNmEj4+oxQ=",
+			"path": "github.com/gopherjs/gopherjs/js",
+			"revision": "178c176a91fe05e3e6c58fa5c989bad19e6cdcb3",
+			"revisionTime": "2018-01-18T17:31:29Z"
+		},
+		{
+			"checksumSHA1": "gcLub3oB+u4QrOJZcYmk/y2AP4k=",
+			"path": "github.com/nu7hatch/gouuid",
+			"revision": "179d4d0c4d8d407a32af483c2354df1d2c91e6c3",
+			"revisionTime": "2013-12-21T20:05:32Z"
+		},
+		{
+			"checksumSHA1": "387mMYJ4E8b7JsRvsTS9bdpTlzo=",
+			"path": "gopkg.in/toast.v1",
+			"revision": "b700e246b8b6d3e13554091e540e1019e26389f1",
+			"revisionTime": "2017-02-15T08:26:21Z"
+		}
+	],
+	"rootPath": "rw/notify"
+}
